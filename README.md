@@ -230,7 +230,7 @@ For detailed API documentation and business requirements, see:
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## 🏗️ Development Status
 
